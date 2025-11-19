@@ -4,7 +4,7 @@
 
 I hope one day to be a complete web developer, every day I work very hard at Holberton to fulfill my goal of being a programmer.I love Javascript and would like to one day become a full-stack web developer and be able to work with JavaScript 🤓🤓🤓
 
-- 📫 How to reach me: @CArqueu in Twitter, @carlitox221 in Instagram and cararqueu@gmail.com my Email
+- 📫 How to reach me: cararqueu@gmail.com my Email
 
 ![Carlos github stats](https://github-readme-stats.vercel.app/api?username=carlosaraque22&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaraque22&layout=compact)]
